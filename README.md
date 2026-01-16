@@ -75,11 +75,17 @@ El proyecto fue desarrollado como parte de una capacitación integral en Power B
 ---
 
 ## 📸 Capturas del Dashboard
-### Vista general
-![Dashboard General](images/dashboard_general.png)
+### 🏋️ Portada del Dashboard
+![Portada del Dashboard](img/Portada_1.png)
+*Vista general del dashboard de Fitness Life.*
 
-### Análisis de ingresos
-![Ingresos](images/ingresos_mensuales.png)
+### 📊 Indicadores Clave
+![Indicadores Clave](img/Indicadores_2.png)
+*Principales KPIs del negocio fitness para el análisis de desempeño.*
+
+### 👥 Análisis de Suscriptores
+![Análisis de Suscriptores](img/Suscriptores_3.png)
+*Distribución y comportamiento de los suscriptores.*
 
 ---
 
