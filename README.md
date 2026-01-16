@@ -79,24 +79,7 @@ El proyecto fue desarrollado como parte de una capacitación integral en Power B
 
 ---
 
-## 📚 Contexto Académico
-Este proyecto forma parte de un curso orientado a:
-- Introducción a Power BI desde cero
-- Inteligencia de Negocios
-- Desarrollo de proyectos reales de análisis de datos
-- Aplicación práctica de herramientas de BI en un entorno empresarial
-
----
-
-## 👤 Público Objetivo
-- Estudiantes de Inteligencia de Negocios
-- Analistas de datos en formación
-- Profesionales que toman decisiones basadas en datos
-- Personas interesadas en Power BI y Business Intelligence
-
----
-
 ## 📬 Contacto
-- LinkedIn: *(tu enlace)*
-- GitHub: *(tu usuario)*
+- LinkedIn: *https://www.linkedin.com/in/angel-portilla-18921215b/*
+
 
