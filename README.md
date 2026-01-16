@@ -70,12 +70,12 @@ El proyecto fue desarrollado como parte de una capacitación integral en Power B
 
 ## 🔗 Dashboard Interactivo
 👉 **[Enlace al dashboard en Power BI Service]**  
-*(Agregar aquí el link público)*
+
 
 ---
 
 ## 📸 Capturas del Dashboard
-*(Agregar imágenes del dashboard para visualización rápida en GitHub)*
+
 
 ---
 
