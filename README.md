@@ -75,7 +75,11 @@ El proyecto fue desarrollado como parte de una capacitación integral en Power B
 ---
 
 ## 📸 Capturas del Dashboard
+### Vista general
+![Dashboard General](images/dashboard_general.png)
 
+### Análisis de ingresos
+![Ingresos](images/ingresos_mensuales.png)
 
 ---
 
