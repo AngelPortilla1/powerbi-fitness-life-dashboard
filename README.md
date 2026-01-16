@@ -69,7 +69,8 @@ El proyecto fue desarrollado como parte de una capacitación integral en Power B
 ---
 
 ## 🔗 Dashboard Interactivo
-👉 **[Enlace al dashboard en Power BI Service]**  
+El dashboard fue desarrollado en Power BI.  
+El archivo `.pbix` se encuentra disponible en este repositorio para su revisión. 
 
 
 ---
